@@ -66,7 +66,7 @@ Fully fixed version: white-background GitHub + Pandas icons that work on dark mo
 
 <p align="center">
   <a href="https://linkedin.com/in/vivek-5ba199275" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-  <a href="mailto:Viveky7982@outlook.com"><img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" width="40" height="40"/></a>
+  <a href="mailto:Viveky7982@outlook.com"><img src="https://github.com/VIVEK-CSE/VIVEK-CSE/blob/main/image.jpeg" width="40" height="40"/></a>
   <a href="https://github.com/VIVEK-CSE"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" height="45"/></a>
 </p>
 
