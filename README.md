@@ -3,7 +3,7 @@
 Fully fixed version: white-background GitHub + Pandas icons that work on dark mode.
 -->
 
-<h1 align="center">👋 Namaste, I'm Vivek Bhaiya!</h1>
+<h1 align="center">👋 Namaste, I'm Vivek !</h1>
 <h3 align="center">🎓 B.Tech CSE (AI & ML) | 🤖 Machine Learning & Deep Learning Enthusiast | 🧠 Tech Explorer</h3>
 
 ---
