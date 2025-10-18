@@ -41,7 +41,7 @@
 
 | 🧠 Project | 💬 Description |
 |------------|----------------|
-| 🎙️ [**Lecture Voice-to-Notes Generator**](https://github.com/VIVEK-CSE/Lecture-Voice-to-Notes-Generator) | An AI-powered tool that transcribes spoken lectures from audio/video into organized text notes using OpenAI's Whisper model. |
+| 🎙️ [**Lecture Voice-to-Notes Generator**](https://github.com/VIVEK-CSE/Lecture-Voice-to-Notes-Generator) | An AI-powered tool that transcribes spoken lectures into organized text notes using Google's Gemini API and the AssemblyAI API. |
 | 🔥 [**Stock Price Prediction (NVIDIA)**](https://github.com/VIVEK-CSE/NVIDIA-stock-prediction-lstm) | LSTM-based model to predict next-day NVIDIA stock prices. Used TensorFlow/Keras, MinMaxScaler, Dropout, and EarlyStopping for robust results. |
 | 🎬 [**Movie Recommendation System**](https://github.com/VIVEK-CSE/movie-recommendation-system) | Content-based recommendation engine using TMDB dataset with NLP, Cosine Similarity, and FuzzyWuzzy for improved accuracy. |
 
