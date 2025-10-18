@@ -48,6 +48,10 @@
 ---
 
 ### 🧾 Certifications
+- 🎓 **Google for Education – Gemini Certified Student**
+  [View Certificate](https://edu.google.accredible.com/b021f733-60f4-4cd4-a8db-2f5c520e6f02#acc.FOJoyVnT)
+- 🧠 **IBM SkillsBuild – Artificial Intelligence Fundamentals**
+  [View Certificate](https://www.credly.com/badges/e65c0853-4b41-49b0-8ff9-c309999b0c65)
 - 🎓 **NPTEL – Machine Learning (IIT Madras)** — *Elite (68%)*
   [View Certificate](https://internalapp.nptel.ac.in/NOC/NOC25/SEM1/Ecertificates/106/noc25-cs46/Course/NPTEL25CS46S45040022204394012.pdf)
 - 💼 **Deloitte Australia – Data Analytics Job Simulation (Forage)**
@@ -60,6 +64,10 @@
 <p align="center">
   <a href="https://leetcode.com/u/RjPPF54wsO/">
     <img src="https://leetcard.jacoblin.cool/RjPPF54wsO?theme=light&font=Source%20Code%20Pro" alt="Vivek's LeetCode Stats">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/RjPPF54wsO/">
+    <img src="https://github.com/VIVEK-CSE/VIVEK-CSE/blob/main/image.png" alt="LeetCode 50 Days Badge" width="100">
   </a>
 </p>
 
