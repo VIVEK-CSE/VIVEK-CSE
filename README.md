@@ -68,6 +68,7 @@
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/RjPPF54wsO/">
     <img src="https://github.com/VIVEK-CSE/VIVEK-CSE/blob/main/image.png" alt="LeetCode 50 Days Badge" width="100">
+    <img src="https://github.com/VIVEK-CSE/VIVEK-CSE/blob/main/leetcode%20100%20days%20badge.png" alt="LeetCode 100 Days Badge" width="100">
   </a>
 </p>
 
